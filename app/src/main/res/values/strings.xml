@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HPWeather</string>
+    <string name="about">About</string>
+    <string name="change_city">Change City</string>
+    <string name="refresh">Refresh</string>
+    <string name="setting">Setting</string>
+    <string name="todo">TODO</string>
+    <string name="c">°C</string>
+    <string name="_25">25.5</string>
+    <string name="scattered_clouds">Scattered clouds</string>
+    <string name="yangon">Yangon</string>
+    <string name="humidity">Humidity:</string>
+    <string name="_80">80%</string>
+
+</resources>
